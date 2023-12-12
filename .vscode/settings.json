@@ -1,4 +1,0 @@
-{
-    "rust-analyzer.check.invocationLocation": "workspace",
-    "rust-analyzer.cargo.target": "minigrep"
-}
